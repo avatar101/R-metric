@@ -3,6 +3,9 @@ This repository contains code to calculate R-metric. It is a metric to quantify 
 
 ## Prerequisites
 * Python > 3.0
+* Numpy
+* Scipy
+* Pandas
 * Xarray
 
 ## Terms of Use
