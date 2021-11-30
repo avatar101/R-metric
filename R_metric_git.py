@@ -1,15 +1,15 @@
 ## Implementation of the R-metric algorithm as given in Röthlisberger et al. 2018
-## Wavenumber filtering algoritm is from Zimmin et al
+## Wavenumber filtering algoritm is from Zimin et al. 2003
 
-import numpy as np
-import xarray as xr
-import pandas as pd
-from datetime import datetime
-# import glob
-import sys
-from scipy.fftpack import fft, ifft
-import math
 import cmath as cm
+from datetime import datetime
+import math
+import numpy as np
+import pandas as pd
+from scipy.fftpack import fft, ifft
+import sys
+import xarray as xr
+
 
 t1 = datetime.now()
 
