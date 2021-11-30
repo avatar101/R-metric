@@ -1,4 +1,4 @@
-# R-metric
+# R-metric [![DOI](https://zenodo.org/badge/433335868.svg)](https://zenodo.org/badge/latestdoi/433335868)
 This repository contains code to calculate R-metric. It is a metric to quantify the recurrence of Rossby wave packets in the upper-level flow (Röthlisberger et al. 2019, Ali et al. 2021).
 
 ## Prerequisites
