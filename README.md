@@ -1,5 +1,5 @@
 # R-metric
-This repository contains code to calculate R-metric. It is a metric to quantify the recurrence of Rossby wave packets in the upper-level flow.
+This repository contains code to calculate R-metric. It is a metric to quantify the recurrence of Rossby wave packets in the upper-level flow (Röthlisberger et al. 2018, Ali et al. 2021).
 
 ## Prerequisites
 * Python > 3.0
