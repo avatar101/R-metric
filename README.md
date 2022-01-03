@@ -1,5 +1,5 @@
 # R-metric [![DOI](https://zenodo.org/badge/433335868.svg)](https://zenodo.org/badge/latestdoi/433335868)
-This repository contains code to calculate R-metric. It is a metric to quantify the recurrence of Rossby wave packets in the upper-level flow (Röthlisberger et al. 2019, Ali et al. 2021).
+This repository contains code to calculate R-metric. It is a metric to quantify the recurrence of Rossby wave packets in the upper-level flow (Röthlisberger et al. 2019, Ali et al. 2021). If you found the code useful then please cite it as Ali, M. and Röthlisberger, M.: avatar101/R-metric: (Version v1.1), Zenodo, https://doi.org/10.5281/zenodo.5742810, 2021.
 
 ## Prerequisites
 * Python > 3.0
